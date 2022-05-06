@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, working with data, working on Data analysis projects, building models for analysis, learning things, making friends, shopping etc.
 - 🌱 I’m currently learning Data Science at Bloom Institute of Technology.
 - 💞️ I’m looking for a entry level Data Scientist role. And want to explore my knowledge and skills in this field.
-- 📫 How to reach me https://www.linkedin.com/in/merina-manandhar-karki-6b32a9195/
+- 📫 How to reach me https://www.linkedin.com/in/merina-manandhar/
 
 <!---
 merinakarki/merinakarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
